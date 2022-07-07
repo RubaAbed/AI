@@ -1,0 +1,77 @@
+Ros Program installation algorithm
+
+1)  Steps to download VMware workstation 16
+
+1- Go to the official VMware workstation 16 website  
+2- At the bottom of the screen choose VMware workstation 16
+3- It takes me to a page where there is VMware workstation 16 for Linux and windows on which the program is installed
+4 At the bottom of the screen, click on the download link for VMware workstation 16 for windows
+5- Download VMware workstation 16 on windows
+6- After downloading open VMware workstation 16
+7- I get a message (Are you OK to install VMware workstation 16 choose Yes
+8- The program is installed with ease
+9- Choose next
+10 I agree to the terms and conditions, then next
+11- Choose next, then next, and then install
+12- The installation is complete, then choose finish
+13- Open VMware workstation 16 copy the activation code and continue then yes and then finish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2) Steps to download Ubuntu 20.04
+
+1- Go to the official Ubuntu website and choose download and enter the Ubuntu desktop
+2- Choose the Ubuntu 20.04 version and select Download
+3- Download Ubuntu 20.04
+4 Open VMware workstation 16 and choose create a new virtual machine
+5- Press next option I will
+6 Click Next and choose Linux and select Ubuntu version
+7 Click next and it is called virtual machine ( ubuntu33) and choose the installation location
+8 Click Next, choose miximum disk size, 40 is selected, and then Next
+9- Go to customise Hardware and at the option state (New CD/DVD) choose iOS file Ubuntu 20.04 version Then choose next and finish
+10 Select the language English and choose Install Ubuntu
+11- Choose the language of the keyboards
+12- update software Activate the option Install third-Party software and then continue
+13- Choose Erase disk and install and then Install now
+14- Choose the city name from the map
+15- Choose your user name and password and choose every time I put the password and choose continue
+16- Ubuntu is installed
+17- Choose Restart Now
+18 Enter the password and the system is logged in
+19- Select skip, Next, Down
+
+
+
+
+
+
+
+2) Steps to download ROS
+
+To Download Ros on Ubuntu 20.04
+
+1- Open the official website of Ros.org
+2- Choose the version that works with Ubuntu 20.04 and choose Download
+3- It takes me to the download page and select the Ubuntu operating system
+4- Open the Ubuntu terminal
+5- After that, copy the commands alone, and then the Ros program will be downloaded to the Ubuntu operating system
+6 To verify the correctness of the Ros program download process, type the command roscoes
+
+
+
+
+«·ÿ«·»… : —»Ï ⁄«»œ ”«⁄œ «··ÂÌ»Ì
+—ﬁ„ «·Ã«„⁄Ì : 439001527
